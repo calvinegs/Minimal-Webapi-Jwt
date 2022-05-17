@@ -1,0 +1,1 @@
+使用 ASP.NET Core 6 提供的 Minimal APIs 新框架建置一個極簡的 Web API 服務
